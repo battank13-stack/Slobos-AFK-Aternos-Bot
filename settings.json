@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SMPPPPPPPPPPPPPPPPPP.aternos.me
-",
+"ip":"SMPPPPPPPPPPPPPPPPPP.aternos.me",
     "port": 27586,
     "version": "",
     "try-creative": false
